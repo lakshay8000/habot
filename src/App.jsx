@@ -1,12 +1,12 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './components/Navbar/Navbar';
 import "./App.css";
+import SearchBox from './components/SearchBox/SearchBox';
 
 function App() {
 
   return (
     <div id='app-wrapper'>
-      <Navbar />
+      <SearchBox />
     </div>
   )
 }

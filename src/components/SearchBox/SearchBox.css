@@ -1,0 +1,219 @@
+#search-box-wrapper {
+    width: 1512px;
+    height: 609px;
+    background: linear-gradient(356.01deg, rgba(7, 47, 87, 0.75) 50.8%, rgba(7, 47, 87, 0) 94.58%), linear-gradient(0deg, rgba(7, 47, 87, 0.45), rgba(7, 47, 87, 0.45)), url('../../assets/images/habotSearchBoxImage3.png');
+    background-size: cover;
+}
+
+#search-box-text {
+    width: 935px;
+    height: 122px;
+    position: absolute;
+    top: 210px;
+    left: 298px;
+}
+
+#search-box-text span:nth-child(1) {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 66px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#search-box-text span:nth-child(2) {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 66px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#service-search-wrapper {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 56px;
+    position: absolute;
+    top: 379px;
+    left: 296px;
+    border: solid 1px #D1D5DB;
+    border-radius: 5px;
+}
+
+#service-search {
+    width: 363px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 19px;
+    background-color: #FFFFFF;
+
+}
+
+#suitcase-vector-wrapper {
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    top: 9px;
+    left: 1px;
+}
+
+#suitcase-vector-wrapper svg:nth-child(1) {
+    width: 7px;
+    height: 3.94px;
+    position: absolute;
+    top: 1.75px;
+    left: 7px;
+    color: #E7760D;
+}
+
+#suitcase-vector-wrapper svg:nth-child(2) {
+    width: 21px;
+    height: 7.88px;
+    position: absolute;
+    top: 4.38px;
+    color: #E7760D;
+}
+
+#suitcase-vector-wrapper svg:nth-child(3) {
+    width: 21px;
+    height: 9.08px;
+    position: absolute;
+    top: 10.17px;
+    color: #E7760D;
+}
+
+#service-placeholder-div {
+    width: 339.06px;
+    height: 19px;
+    position: absolute;
+    top: 11px;
+    left: 16px;
+}
+
+#service-placeholder-div input {
+    border: none;
+    width: 338.45px;
+    height: 16px;
+    position: absolute;
+    top: 1px;
+    left: 22px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15.13px;
+    font-weight: 300;
+    line-height: 22.69px;
+    text-align: left;
+    color: #6B7280;
+}
+
+#location-search-wrapper {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 56px;
+    position: absolute;
+    top: 379px;
+    left: 706px;
+    border: 1px solid #D1D5DB;
+    border-radius: 5px;
+}
+
+#location-vector-wrapper {
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    top: 17px;
+    left: 15px;
+}
+
+#location-vector-wrapper svg {
+    width: 16.17px;
+    height: 23px;
+    position: absolute;
+    left: 3.41px;
+    color: #E7760D;
+}
+
+#location-input-div {
+    width: 363px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 19px;
+}
+
+#location-placeholder-div {
+    width: 339.06px;
+    height: 19px;
+    position: absolute;
+    top: 11px;
+    left: 12px;
+}
+
+#location-placeholder-div input {
+    width: 338.45px;
+    height: 16px;
+    position: absolute;
+    top: 1px;
+    left: 18px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15.13px;
+    font-weight: 300;
+    line-height: 22.69px;
+    text-align: left;
+    border: none;
+    color: #6B7280;
+}
+
+#search-form button {
+    width: 117.94px;
+    height: 54px;
+    position: absolute;
+    top: 380px;
+    left: 1116px;
+    border: 1px solid #00732F;
+    border-radius: 5px;
+    background-color: #00732F;
+    padding: 0;
+}
+
+#search-form button span {
+    width: 52.14px;
+    height: 16px;
+    font-family: "Inter", sans-serif;
+    font-size: 15.13px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#requirement-post-text {
+    width: 642px;
+    height: 36px;
+    position: absolute;
+    top: 469px;
+    left: 435px;
+}
+
+#requirement-post-text span:nth-child(1) {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#requirement-post-text span:nth-child(2) {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
