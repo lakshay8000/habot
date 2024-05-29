@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+#app-wrapper {
+    width: 1512px;
+    overflow-x: hidden;
+}
