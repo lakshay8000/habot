@@ -1,0 +1,18 @@
+.city-container {
+    width: 260px;
+    height: 65px;
+    border: 1px solid #E7760D;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+
+.city-name {
+    width: 260px;
+    height: 32px;
+    font-family: "Inter", sans-serif;
+    font-size: 18.75px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+    color: #3E3E3E;
+}
