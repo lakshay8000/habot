@@ -1,0 +1,28 @@
+.checked-icon-container {
+    width: 18px;
+    height: 18px;
+    color: #32BA7C;
+}
+
+.checked-icon-container svg:nth-child(1) {
+    width: 18px;
+    height: 18px;
+    color: #32BA7C;   
+}
+
+.checked-icon-container svg:nth-child(2) {
+    width: 6.5px;
+    height: 6.53px;
+    position: absolute;
+    top: 12.08px;
+    left: 3.02px;
+    color: #FFFFFF;
+}
+
+.checked-icon-container svg:nth-child(3) {
+    width: 9.14px;
+    height: 9.11px;
+    position: absolute;
+    top: 9.44px;
+    left: 5.83px;
+}
