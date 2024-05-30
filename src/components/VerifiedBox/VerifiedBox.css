@@ -1,0 +1,53 @@
+#verified-box-wrapper {
+    width: 1512px;
+    height: 254px;
+    position: absolute;
+    top: 1880px;
+    background-color: #E8FBFF;
+}
+
+#verified-box-heading-container {
+    width: 500px;
+    height: 40px;
+    position: absolute;
+    top: 107px;
+    left: 128px;
+}
+
+#verified-box-heading-container span {
+    width: 563px;
+    height: 40px;
+    position: absolute;
+    left: 38px;
+    font-family: "Poppins", sans-serif;
+    font-size: 37.34px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+#rect {
+    width: 159px;
+    height: 4px;
+    position: absolute;
+    top: 46px;
+    left: 290px;
+    background-color: #EB7150;
+}
+
+#verified-box-wrapper button {
+    width: 216px;
+    height: 54px;
+    position: absolute;
+    top: 107px;
+    left: 1060px;
+    background-color: #EB7150;
+}
+
+#verified-box-wrapper button span {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
