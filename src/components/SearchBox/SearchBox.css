@@ -1,7 +1,7 @@
 #search-box-wrapper {
     width: 1512px;
     height: 609px;
-    background: linear-gradient(356.01deg, rgba(7, 47, 87, 0.75) 50.8%, rgba(7, 47, 87, 0) 94.58%), linear-gradient(0deg, rgba(7, 47, 87, 0.45), rgba(7, 47, 87, 0.45)), url('../../../public/images/habotSearchBoxBackgroundImage.png');
+    background: linear-gradient(356.01deg, rgba(7, 47, 87, 0.75) 50.8%, rgba(7, 47, 87, 0) 94.58%), linear-gradient(0deg, rgba(7, 47, 87, 0.45), rgba(7, 47, 87, 0.45)), url('/images/habotSearchBoxBackgroundImage.png');
     background-size: cover;
 }
 

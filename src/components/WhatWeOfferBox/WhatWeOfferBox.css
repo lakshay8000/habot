@@ -1,0 +1,516 @@
+#what-we-offer-container {
+    width: 1512px;
+    height: 809px;
+    position: absolute;
+    top: 2257px;
+    background-color: #FFFFFF;
+}
+
+#box-heading-container {
+    width: 1200px;
+    height: 70px;
+    position: absolute;
+    top: 65px;
+    left: 156px;
+}
+
+#box-heading-container span {
+    width: 287px;
+    height: 48px;
+    position: absolute;
+    top: -50px;
+    left: 456px;
+    font-family: "Poppins", sans-serif;
+    font-size: 37.34px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    color: #222222;
+}
+
+#box-description {
+    width: 839px;
+    height: 52px;
+    position: absolute;
+    top: 89px;
+    left: 336px;
+    font-family: "Poppins", sans-serif;
+    font-size: 17.16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}
+
+#offers-container {
+    width: 1200px;
+    height: 508px;
+    position: absolute;
+    left: 156px;
+}
+
+#create-account-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 214px;
+    left: 0px;
+    background-color: #E8FBFF;
+}
+
+#create-account-logo {
+    width: 74.35px;
+    height: 74.35px;
+}
+
+#create-account-logo svg:nth-child(1) {
+    width: 36.31px;
+    height: 36.31px;
+    position: absolute;
+    top: 82.04px;
+    left: 201.04px;
+    color: #EB7150;
+}
+
+#create-account-logo svg:nth-child(2) {
+    width: 40.62px;
+    height: 29.92px;
+    position: absolute;
+    top: 85.02px;
+    left: 163px;
+    color: #000000;
+}
+
+#create-account-logo svg:nth-child(3) {
+    width: 38.04px;
+    height: 38.04px;
+    position: absolute;
+    top: 44px;
+    left: 179.43px;
+    color: #000000;
+}
+
+.offers-span {
+    width: 206px;
+    height: 53px;
+    position: absolute;
+    top: 157px;
+    left: 97px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}
+
+#buyers-post-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 214px;
+    left: 400px;
+    background-color: #FFFFFF;
+}
+
+#buyers-post-logo {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 52px;
+    left: 165px;
+}
+
+#buyers-post-logo>div {
+    width: 63.46px;
+    height: 75px;
+    position: absolute;
+    left: 5.77px;
+}
+
+#buyers-post-logo>div svg:nth-child(1) {
+    width: 28.08px;
+    height: 28.03px;
+    position: absolute;
+    top: 36.23px;
+    left: 41.15px;
+    color: #EB7150;
+}
+
+#buyers-post-logo>div svg:nth-child(2) {
+    width: 51.79px;
+    height: 75px;
+    position: absolute;
+    left: 5.77px;
+    color: #000000;
+}
+
+#buyers-post-logo>div svg:nth-child(3) {
+    width: 8.42px;
+    height: 9.58px;
+    position: absolute;
+    top: 3.89px;
+    left: 46.25px;
+    color: #000000;
+}
+
+#review-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 214px;
+    left: 800px;
+    background-color: #E8FBFF;
+}
+
+#review-logo {
+    width: 76.01px;
+    height: 77.54px;
+}
+
+#review-logo svg:nth-child(1) {
+    width: 19.05px;
+    height: 18.91px;
+    position: absolute;
+    top: 113.62px;
+    left: 218.96px;
+    color: #EB7150;
+}
+
+#review-logo svg:nth-child(2) {
+    width: 7.67px;
+    height: 7.55px;
+    position: absolute;
+    top: 110.75px;
+    left: 215.86px;
+    color: #EB7150;
+}
+
+#review-logo svg:nth-child(3) {
+    width: 30.29px;
+    height: 29.81px;
+    position: absolute;
+    top: 87.43px;
+    left: 192.14px;
+    color: #EB7150;
+}
+
+#review-logo svg:nth-child(4) {
+    width: 54.52px;
+    height: 73.3px;
+    position: absolute;
+    top: 55px;
+    left: 162px;
+    color: #000000;
+}
+
+#review-section span {
+    width: 273px;
+    height: 53px;
+    position: absolute;
+    top: 157px;
+    left: 63px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}
+
+#profile-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 468px;
+    left: 0px;
+    background-color: #FFFFFF;
+}
+
+#profile-logo {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 52px;
+    left: 152px;
+}
+
+#profile-logo>div {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 0px;
+}
+
+#profile-logo-box {
+    width: 69.14px;
+    height: 69.14px;
+    position: absolute;
+    top: 0px;
+    left: 2.93px;
+}
+
+#profile-logo-box svg:nth-child(1) {
+    width: 19px;
+    height: 15.64px;
+    position: absolute;
+    top: 28px;
+    left: 17.58px;
+}
+
+#profile-logo-box svg:nth-child(2) {
+    width: 21px;
+    height: 0px;
+    position: absolute;
+    top: 15px;
+    left: 42.19px;
+    border: 2.5px solid #000000;
+    border-radius: 5px;
+}
+
+#profile-logo-box svg:nth-child(3) {
+    width: 30.18px;
+    height: 30.18px;
+    position: absolute;
+    top: 37px;
+    left: 41.89px;
+}
+
+#profile-logo-box svg:nth-child(4) {
+    width: 13px;
+    height: 0px;
+    position: absolute;
+    top: 53px;
+    left: 17.29px;
+    border: 2.5px solid #000000;
+    border-radius: 5px;
+}
+
+#profile-logo-box svg:nth-child(5) {
+    width: 24px;
+    height: 0px;
+    position: absolute;
+    top: 44px;
+    left: 17.29px;
+    border: 2.5px solid #000000;
+    border-radius: 5px;
+}
+
+#profile-logo-box svg:nth-child(6) {
+    width: 21px;
+    height: 0px;
+    position: absolute;
+    top: 25px;
+    left: 42.19px;
+    border: 2.5px solid #000000;
+    border-radius: 5px;
+}
+
+#profile-logo-box svg:nth-child(7) {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 11px;
+    left: 18px;
+}
+
+#profile-section span {
+    width: 267px;
+    height: 53px;
+    position: absolute;
+    top: 157px;
+    left: 66px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}
+
+#quote-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 468px;
+    left: 400px;
+    background-color: #E8FBFF;
+}
+
+#quote-logo {
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: 52px;
+    left: 162px;
+}
+
+#quote-logo svg:nth-child(1) {
+    width: 28.73px;
+    height: 5.53px;
+    position: absolute;
+    top: 45px;
+    left: 42px;
+    transform: rotate(-45deg);
+    background-color: #EB7150;
+}
+
+#quote-logo svg:nth-child(2) {
+    width: 6.01px;
+    height: 6.01px;
+    position: absolute;
+    top: 59.07px;
+    left: 39.69px;
+    color: #EB7150;
+}
+
+#quote-logo svg:nth-child(3) {
+    width: 6.68px;
+    height: 6.68px;
+    position: absolute;
+    top: 29.77px;
+    left: 68.32px;
+    color: #EB7150;
+}
+
+#quote-logo svg:nth-child(4) {
+    width: 55.71px;
+    height: 5.53px;
+    position: absolute;
+    top: 0px;
+    color: #000000;
+}
+
+#quote-logo svg:nth-child(5) {
+    width: 55.15px;
+    height: 75px;
+    position: absolute;
+    left: 9.92px;
+    color: #000000;
+}
+
+#quote-section>span {
+    width: 299px;
+    height: 53px;
+    position: absolute;
+    top: 157px;
+    left: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}
+
+#connect-section {
+    width: 400px;
+    height: 254px;
+    position: absolute;
+    top: 468px;
+    left: 800px;
+    background-color: #FFFFFF;
+}
+
+#connect-section>div {
+    width: 86.69px;
+    height: 85.34px;
+    /* position: absolute;
+    top: 42.66px;
+    left: 157px; */
+}
+
+#connect-section>div svg:nth-child(1) {
+    width: 7.93px;
+    height: 8.66px;
+    position: absolute;
+    top: 119.34px;
+    left: 191.62px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(2) {
+    width: 57.2px;
+    height: 49px;
+    position: absolute;
+    top: 77.21px;
+    left: 168.25px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(3) {
+    width: 20.15px;
+    height: 31.16px;
+    position: absolute;
+    top: 68.2px;
+    left: 223.54px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(4) {
+    width: 43.17px;
+    height: 24.21px;
+    position: absolute;
+    top: 75.09px;
+    left: 188.01px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(5) {
+    width: 23.99px;
+    height: 23.99px;
+    position: absolute;
+    top: 42.66px;
+    left: 188.35px;
+    color: #EB7150;
+}
+
+#connect-section>div svg:nth-child(6) {
+    width: 9.35px;
+    height: 10.32px;
+    position: absolute;
+    top: 113.64px;
+    left: 183.52px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(7) {
+    width: 23.06px;
+    height: 27.18px;
+    position: absolute;
+    top: 68.15px;
+    left: 157px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(8) {
+    width: 12.06px;
+    height: 13.38px;
+    position: absolute;
+    top: 100.07px;
+    left: 167.26px;
+    color: #000000;
+}
+
+#connect-section>div svg:nth-child(9) {
+    width: 11.53px;
+    height: 12.76px;
+    position: absolute;
+    top: 106.73px;
+    left: 175.15px;
+    color: #000000;
+}
+
+#connect-section>span {
+    width: 299px;
+    height: 53px;
+    position: absolute;
+    top: 157px;
+    left: 50px;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+    color: #000000;
+}

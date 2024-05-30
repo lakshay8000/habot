@@ -5,7 +5,7 @@ function VideoBuyer() {
     return (
         <div id="video-buyer-wrapper">
             <div id="video-thumbnail-container">
-                <img src="../../../public/images/habotVideoThumbnail.jpeg" alt="video-thumbnail" />
+                <img src="../../../images/habotVideoThumbnail.jpeg" alt="video-thumbnail" />
             </div>
             <div id="play-icon-container">
                 <svg width="107" height="76" viewBox="0 0 107 76" fill="none" xmlns="http://www.w3.org/2000/svg">
