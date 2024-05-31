@@ -6,6 +6,7 @@ import RightArrow from "../../components/RightArrow/RightArrow";
 import VideoBuyer from "../../components/VideoBuyer/VideoBuyer";
 import VerifiedBox from "../../components/VerifiedBox/VerifiedBox";
 import WhatWeOfferBox from "../../components/WhatWeOfferBox/WhatWeOfferBox";
+import Footer from "../../components/Footer/Footer";
 
 function Homepage() {
     const [overlayVisible, setOverlayVisible] = useState(false);
@@ -52,6 +53,9 @@ function Homepage() {
             <VerifiedBox />
 
             <WhatWeOfferBox />
+
+            <Footer />
+            
         </div>
     )
 }
