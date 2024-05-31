@@ -41,6 +41,8 @@
     top: 107px;
     left: 1060px;
     background-color: #EB7150;
+    border: 1px solid #EB7150;
+    border-radius: 5px;
 }
 
 #verified-box-wrapper button span {
