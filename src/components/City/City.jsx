@@ -1,5 +1,7 @@
-import { useState } from "react";
 import "./City.css";
+
+import { useState } from "react";
+
 import RightArrow from "../RightArrow/RightArrow";
 
 
@@ -29,7 +31,7 @@ function City({ cityName }) {
                 </div>
             }
         </div>
-    )
+    );
 }
 
 export default City;

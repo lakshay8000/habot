@@ -1,5 +1,6 @@
 import "./CheckedIcon.css";
 
+
 function CheckedIcon() {
     return (
         <div className="checked-icon-container">
@@ -15,7 +16,7 @@ function CheckedIcon() {
                 <path d="M7.37854 0.741314C7.77602 0.343838 8.45741 0.343838 8.85489 0.741314L9.67823 1.56466C10.0757 1.96213 10.0757 2.64352 9.67823 3.041L3.43217 9.25866C3.0347 9.65614 2.35331 9.65614 1.95583 9.25866L1.13249 8.43532C0.735012 8.03784 0.735012 7.35645 1.13249 6.95898L7.37854 0.741314Z" fill="white" />
             </svg>
         </div>
-    )
+    );
 }
 
 export default CheckedIcon;

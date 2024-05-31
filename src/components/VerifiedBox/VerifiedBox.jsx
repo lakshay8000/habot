@@ -9,7 +9,7 @@ function VerifiedBox() {
             </div>
             <button className="d-flex justify-content-center align-items-center"><span>Get Verified</span></button>
         </div>
-    )
+    );
 }
 
 export default VerifiedBox;

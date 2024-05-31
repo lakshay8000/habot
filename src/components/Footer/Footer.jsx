@@ -1,5 +1,6 @@
 import "./Footer.css";
 
+
 function Footer() {
     return (
         <div id="footer-wrapper">
@@ -88,7 +89,7 @@ function Footer() {
                 <span>Feedback</span>
             </div>
         </div>
-    )
+    );
 }
 
 export default Footer;

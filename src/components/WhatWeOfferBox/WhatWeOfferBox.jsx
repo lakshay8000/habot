@@ -162,7 +162,7 @@ function WhatWeOfferBox() {
                 </section>
             </div>
         </div>
-    )
+    );
 }
 
 export default WhatWeOfferBox;

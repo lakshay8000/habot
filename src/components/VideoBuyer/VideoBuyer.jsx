@@ -1,5 +1,7 @@
-import CheckedIcon from "../CheckedIcon/CheckedIcon";
 import "./VideoBuyer.css";
+
+import CheckedIcon from "../CheckedIcon/CheckedIcon";
+
 
 function VideoBuyer() {
     return (
@@ -37,7 +39,7 @@ function VideoBuyer() {
                 <span>Choose among the suppliers based on the ratings and reviews.</span>
             </div>
         </div>
-    )
+    );
 }
 
 export default VideoBuyer;

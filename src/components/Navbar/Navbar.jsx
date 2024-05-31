@@ -26,7 +26,7 @@ function Navbar() {
                 </button>
             </header>
         </div>
-    )
+    );
 }
 
 export default Navbar;

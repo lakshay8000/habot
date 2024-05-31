@@ -1,5 +1,7 @@
-import Navbar from "../Navbar/Navbar";
 import "./SearchBox.css";
+
+import Navbar from "../Navbar/Navbar";
+
 
 function SearchBox() {
     return (
@@ -57,7 +59,7 @@ function SearchBox() {
                 <span>Click here if you are looking to post a requirements</span>
             </div>
         </div>
-    )
+    );
 }
 
 export default SearchBox;
