@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <div id="navbar-wrapper" className="d-flex">
             <div id="logo-wrapper">
-                <img src="https://s3-alpha-sig.figma.com/img/c1e1/45c4/467f6c3f60c323a607803f6d0dbc78cd?Expires=1717977600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b6EPuIw3lZQptEXnI6QOFnUHYWQOvj22btEA-wzvO1rQ0t1Ts-As4ZyVmJVLGkx1GRAlFOzhuUvdMglyDeiP9vZVJPFpg7y7AZ8AvG1TJhetFxxmTOamZmLqUNyCViSwbXAz1WLdvM1aUiNJe0a30x7sZSSPa5xC9SePLt0HDXaMgS2LfcxxMvVu13bsqNGsdFqeYF2dJEjvNIo6zPXXMQqcqLWnzzCKn7OM8fj6j~SbF2Gv5EgZ~aaZ7ee0EQpjv5P~FV0o0mhqdmthPCuitelvOlq~kINV2dL7y5CGEC3SWnOIVB3v1JKCS41fH0NyXRjyRSfjkDzCQWDFKeiKKw__" alt="habot-logo" />
+                <img src="https://s3-alpha-sig.figma.com/img/c1e1/45c4/467f6c3f60c323a607803f6d0dbc78cd?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O-lkHZh5JqjTONAG7GLS9JDDq9ulXy8So3ojZRhYAWq015ZKkfeUBHJ5NDS0vhVo3-uSUZRD7jeb5qG3oCXxMtRS10ZkK3dRWIZjN7y7YXXFlivTs7WP67ELBoVtkuyfymL9Tq9OxkBW8j3Bu2~Uvn0fg8y7MvumygZQsgd-MNTQFCzKwIIgO5eT0ECJnsrItqp8UMctopelJ2pwPaD9GVS4zRYqk34G~h4mDt2djmOMoRkopgD2KkmLzWypqdHeqmv79X37OxaakXHj9x1rfQJ-HLiXqBZrcQkzaLTgNN9cMDRJvKysq1qBxk-~19uPVfkIKT49SFQFuTgt-peTsw__" alt="habot-logo" />
             </div>
             <header id="header-options" className="d-flex">
                 <ul className="d-flex">
