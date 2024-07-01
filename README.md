@@ -5,7 +5,7 @@ This project is a single-page web application built with React and Vite, based o
 
 ## Technologies Used
 
-- **React**
+- **React** 
 - **Vite**
 - **Bootstrap**
 - **ESLint**
